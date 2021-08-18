@@ -1,5 +1,4 @@
 #!/bin/bash
-for file in *.py
 do
-vspipe $file .
+vspipe CCD.py .
 done

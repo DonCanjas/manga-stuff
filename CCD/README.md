@@ -20,7 +20,6 @@ Sample
 -----------------------------
 Done using the default settings. (I'd personally use a higher strength on this one, like 30)  
   
-Raw -----> Filtered (Default Settings) -----> Filtered (Custom Settings)
+Raw -----> Filtered (Custom Settings, strength changed from 20 to 30)  
 ![raw](https://github.com/DonCanjas/manga-stuff/blob/main/CCD/samples/raw.png) 
-![filtered_default_settings](https://github.com/DonCanjas/manga-stuff/blob/main/CCD/samples/denoised_CCD.png)  
 ![filterted_custom_settings](https://github.com/DonCanjas/manga-stuff/blob/main/CCD/samples/denoised_CCD_custom_settings.png)
